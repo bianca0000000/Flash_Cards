@@ -5,8 +5,8 @@
     --link-color: #4f05fc;
     --background-color: #FFFFFF;
     --button-hover-color:#c504ff;
-    --font-body:"Chocolate Classical Sans", serif;
-    --font-titulo: "Rakkas", serif;
+    --font-body:"chocolate classical sans", serif;
+    --font-titulo: "rakkas", serif;
 }
 #container{
     display: grid;
